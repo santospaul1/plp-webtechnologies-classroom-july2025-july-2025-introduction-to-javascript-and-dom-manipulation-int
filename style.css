@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 1rem;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header, footer {
+  background-color: #004080;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+}
+
+section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: white;
+  border: 1px solid #ccc;
+}
+
+button {
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.dark-theme {
+  background-color: #222;
+  color: #eee;
+}
